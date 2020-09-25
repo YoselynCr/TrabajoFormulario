@@ -8,7 +8,7 @@ namespace Formulario_Basico
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bienvenidos a La POO");
-            console.WriteLine("Hola")
+            Console.WriteLine("Hola");
         }
     }
 }
